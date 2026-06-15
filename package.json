@@ -12,7 +12,7 @@
   },
   "license": "ISC",
   "author": "Albert Syberia",
-  "type": "commonjs",
+  "type": "module",
   "main": "set.js",
   "directories": {
     "test": "tests"
